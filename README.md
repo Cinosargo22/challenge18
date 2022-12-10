@@ -1,8 +1,8 @@
-# HW_18-NoSQL-Challenge-Social-Network-API
+# challenge18
 
 
 
-## About Task
+# About Task
 Here we build a API test task for a social network. 
 There are routes for doing the following functions
 creating users, updating users, and deleting users. 
@@ -240,15 +240,8 @@ This homework is graded based on the following criteria:
 
 * Repository contains a high-quality README with description and a link to a walkthrough video.
 
-### Bonus: +10 Points
 
-* Application deletes a user's associated thoughts when the user is deleted.
+# Walkthrough video link
 
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://drive.google.com/file/d/1aW60-zd4BWgHQJBbNE_1TqwFdgOWuWkT/view
 
